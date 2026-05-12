@@ -38,14 +38,6 @@ Busco evolução constante na área de tecnologia, contribuindo com soluções o
 
 ---
 
-## 📈 GitHub Stats
-
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
-
----
-
 ## 📌 Projeto em destaque
 
 ### 🛒 StoreAPI
