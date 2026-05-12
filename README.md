@@ -1,16 +1,79 @@
-## Hi there 👋
+# Olá, eu sou o Vitor Lobo 👋
 
-<!--
-**lolvbin/lolvbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focado em desenvolvimento backend com C# e .NET  
+📍 Betim - MG, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou estudante de ADS com experiência prática em suporte técnico e desenvolvimento de software.  
+Tenho interesse em construção de APIs REST, lógica de programação, banco de dados SQL e boas práticas de desenvolvimento backend.
+
+Busco evolução constante na área de tecnologia, contribuindo com soluções organizadas, funcionais e escaláveis.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### Backend
+- C#
+- .NET
+- APIs REST
+
+### Banco de Dados
+- SQL
+- MySQL
+
+### Desenvolvimento
+- Orientação a Objetos
+- Lógica de Programação
+- Estruturação de regras de negócio
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📈 GitHub Stats
+
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
+
+---
+
+## 📌 Projeto em destaque
+
+### 🛒 StoreAPI
+Projeto de API REST desenvolvido em C# com foco em boas práticas de desenvolvimento backend.
+
+[🔗 Repositório](https://github.com/lolvbin/StoreAPI)
+
+#### Principais funcionalidades
+- Estruturação de endpoints REST
+- Operações CRUD
+- Integração com banco de dados
+- Aplicação de regras de negócio
+- Organização e documentação técnica
+- Versionamento com Git/GitHub
+
+---
+
+## 📚 Formação
+
+🎓 Análise e Desenvolvimento de Sistemas  
+Una Betim – MG  
+2025 - 2027 (em andamento)
+
+---
+
+## 📫 Contato
+
+📧 vitorlobofariaribeiro@gmail.com  
+📱 (31) 99432-6477  
+
+---
